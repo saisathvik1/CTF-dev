@@ -1,2 +1,2 @@
 # CTF-dev
-Walkthroughs of CTFs I've developed
+Walkthroughs of CTFs that I've developed.
